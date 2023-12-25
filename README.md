@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-View my portfolio: [brianstricker.com](brianstricker.com)
+View my portfolio: [brianstricker.com](https://brianstricker.com/)
 
 Full stack developer with a focus on the MERN stack.
 
